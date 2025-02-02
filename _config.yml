@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: FK
 email:
 description: >- # this means to ignore newlines until "baseurl:"
  Explore the portfolio of a recent Computer Science graduate skilled in front end and full stack development, data analysis, and digital innovation. Discover projects in web design, automation, and responsive solutions.
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Fatima Kakepoto"
   avatar : "/assets/images/profile_picture.jpg"
-  bio    : "Hey there!🌷 I'm a recent Computer Science graduate specialising in front-end and full stack development, dedicated to creating innovative and intuitive digital solutions"
+  bio    : "Hey there!🌷 I'm a recent Computer Science graduate specialising in front-end and full stack development, dedicated to creating innovative and intuitive digital solutions."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fatimakakepoto02"
     - label: "Email"
-      icon: "fab fa-solid fa-envelope"
+      icon: "fa-solid fa-envelope"
       url: "mailto: fatimakakepoto@gmail.com"
 
 footer:
@@ -82,7 +82,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fatimakakepoto02"
     - label: "Email"
-      icon: "fab fa-solid fa-envelope"
+      icon: "fa-solid fa-envelope"
       url: "mailto: fatimakakepoto@gmail.com"
 
 defaults:
