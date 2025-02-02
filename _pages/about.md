@@ -2,7 +2,13 @@
 permalink: /about/
 title: "About"
 ---
-Hello testing
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Welcome to my portfolio website! This site is built to showcase my skills, projects, and experience as a Front End/Full Stack Developer. I am a recent Computer Science graduate with a passion for creating user-centric digital solutions and optimising business processes through innovative, data-driven approaches.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I have a strong foundation in web development, database management, and programming, with hands-on experience in technologies such as HTML, CSS, JavaScript (ReactJS, NodeJS), PHP, SQL, and more. I enjoy working on projects that challenge me to solve complex problems and continuously learn new technologies.
+
+I am always eager to connect and collaborate! You can reach me at:
+
+    Email: your.email@example.com
+    LinkedIn: https://www.linkedin.com/in/yourusername
+
+Thank you for visiting my portfolio. I look forward to connecting with you!
